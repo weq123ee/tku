@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Photon by HTML5 UP</title>
+		<title>WEI-CHEN-ZHENG</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -18,10 +18,7 @@
 			<section id="header">
 				<div class="inner">
 					<span class="icon solid major fa-cloud"></span>
-					<h1>Hi, I'm <strong>Photon</strong>, another fine<br />
-					little freebie from <a href="http://html5up.net">HTML5 UP</a>.</h1>
-					<p>Accumsan feugiat mi commodo erat lorem ipsum, sed magna<br />
-					lobortis feugiat sapien sed etiam volutpat accumsan.</p>
+					<h1>Hi, I'm <strong>WEICHEN </strong>這是我的網頁<br />
 					<ul class="actions special">
 						<li><a href="#one" class="button scrolly">Discover</a></li>
 					</ul>
@@ -29,15 +26,33 @@
 			</section>
 
 		<!-- One -->
+		<section id="one" class="main style1">
+			<div class="container">
+				<div class="row gtr-150">
+					<div class="col-6 col-12-medium">
+						<header class="major">
+							<h2>這是作業一<br />
+							</h2>
+						</header>
+						<p><a href="https://github.com/x6901775/tku1/blob/master/hello.html" target="_blank">查看作業一的詳細內容</a></p>
+					</div>
+					<div class="col-6 col-12-medium imp-medium">
+						<span class="image fit"><img src="images/pic01.jpg" alt="" /></span>
+					</div>
+				</div>
+			</div>
+		</section>
+		
 			<section id="one" class="main style1">
 				<div class="container">
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
 							<header class="major">
-								<h2>Lorem ipsum dolor adipiscing<br />
-								amet dolor consequat</h2>
+								<h2>這是作業二<br />
+								</h2>
 							</header>
-							<p>Adipiscing a commodo ante nunc accumsan et interdum mi ante adipiscing. A nunc lobortis non nisl amet vis sed volutpat aclacus nascetur ac non. Lorem curae et ante amet sapien sed tempus adipiscing id accumsan.</p>
+							<p><a href="hhttps://github.com/x6901775/tku1/blob/master/about.html" target="_blank">查看作業二的詳細內容</a></p>
+
 						</div>
 						<div class="col-6 col-12-medium imp-medium">
 							<span class="image fit"><img src="images/pic01.jpg" alt="" /></span>
@@ -45,6 +60,44 @@
 					</div>
 				</div>
 			</section>
+
+			<section id="one" class="main style1">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>這是作業三<br />
+								</h2>
+							</header>
+							<p><a href="https://github.com/weq123ee/wei/blob/main/index.html" target="_blank">查看作業三的詳細內容</a></p>
+
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="images/pic01.jpg" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="one" class="main style1">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>這是作業四<br />
+								</h2>
+							</header>
+							<p><a href="https://github.com/weq123ee/wei/blob/main/ab.html" target="_blank">查看作業四的詳細內容</a></p>
+
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="images/pic01.jpg" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+
 
 		<!-- Two -->
 			<section id="two" class="main style2">
